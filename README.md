@@ -1,5 +1,7 @@
 ## HideFace
-This chrome extension helps you to hide people's face while watching YouTube videos. Hence minimizing possible distractions.
+Do you watch YouTube tutorials but often get distracted by the tutor's face in a small window on the screen? Personally it is very distracting for me when I am trying to focus on the video and some guy is randomly shaking his head or hands in the video screen. 
+
+Hence I created this chrome extension.It helps you to hide people's face while watching YouTube videos. Hence minimizing possible distractions and focusing completly on the material.
 
 ## Features
 
