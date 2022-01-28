@@ -11,6 +11,12 @@ This chrome extension helps you to hide people's face while watching YouTube vid
 
 Watch the demo video here: https://www.youtube.com/watch?v=tWcgtIGuj2s
 
+## Images
+
+![Image 1](https://github.com/spiyush0212/HideFace/blob/main/images/ss1.png)  
+![Image 2](https://github.com/spiyush0212/HideFace/blob/main/images/ss2.png)  
+
+
 ## Note
 
 * This extension will only work on 'Youtube' and only on the 'video watch page' of YouTube.  
