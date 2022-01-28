@@ -1,0 +1,25 @@
+{
+    "name": "Hide Face",
+    "description": "This chrome extension helps you to hide people's face while watching Youtube videos. Hence minimising possible distractions.",
+    "version": "0.1.0",
+    "manifest_version": 2,
+    "icons": {
+        "128": "icon_128.png"
+    },
+    "browser_action": {
+        "default_icon": "icon.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*.youtube.com/*"
+            ],
+            "include_globs": [
+                "*watch*"
+            ],
+            "js": ["index.js"],
+            "css": ["index.css"]
+        }
+    ],
+    "permissions": ["storage", "activeTab"]
+}

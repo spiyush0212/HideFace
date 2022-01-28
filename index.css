@@ -1,0 +1,19 @@
+#mydiv {
+  position: absolute;
+  z-index: 1000000;
+  width: 15%;
+  height: 20%;
+  background-color: #444;
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+#close {
+  font-family: Poppins;
+  font-weight: bold;
+  font-size: 14px;
+  color: red;
+  cursor: pointer;
+  opacity: 0.8;
+}
